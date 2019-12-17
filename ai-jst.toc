@@ -1,12 +1,12 @@
 \babel@toc {bahasa}{}
 \babel@toc {bahasa}{}
 \contentsline {chapter}{KATA PENGANTAR}{ii}{chapter*.1}%
-\contentsline {chapter}{DAFTAR ISI}{iv}{chapter*.2}%
-\contentsline {chapter}{DAFTAR TABEL}{v}{chapter*.3}%
-\contentsline {chapter}{DAFTAR GAMBAR}{vi}{chapter*.4}%
-\contentsline {chapter}{Intisari}{vii}{chapter*.5}%
+\contentsline {chapter}{DAFTAR ISI}{v}{chapter*.2}%
+\contentsline {chapter}{DAFTAR TABEL}{vi}{chapter*.3}%
+\contentsline {chapter}{DAFTAR GAMBAR}{vii}{chapter*.4}%
+\contentsline {chapter}{Intisari}{viii}{chapter*.5}%
 \babel@toc {english}{}
-\contentsline {chapter}{\emph {Abstract}}{viii}{chapter*.6}%
+\contentsline {chapter}{\emph {Abstract}}{ix}{chapter*.6}%
 \babel@toc {bahasa}{}
 \contentsline {chapter}{\numberline {I}PENDAHULUAN}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
@@ -19,13 +19,17 @@
 \contentsline {chapter}{\numberline {II}KAJIAN LITERATUR}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Tinjauan Pustaka}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Landasan Teori}{3}{section.2.2}%
-\contentsline {chapter}{\numberline {III}METODOLOGI PENELITIAN}{4}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Waktu dan Tempat Penelitian}{4}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Analisa dan Perancangan}{4}{section.3.2}%
-\contentsline {chapter}{\numberline {IV}ANALISA DAN PEMBAHASAN}{5}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Bahasan 1}{5}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Bahasan 2}{5}{section.4.2}%
-\contentsline {chapter}{\numberline {V}KESIMPULAN DAN SARAN}{6}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Kesimpulan}{6}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Saran}{6}{section.5.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{7}{chapter*.7}%
+\contentsline {subsection}{\numberline {2.2.1}Jaringan Syaraf Tiruan \emph {Artificial Neural Network}}{3}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Arsitektur Jaringan Syaraf Tiruan}{4}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Metode Propagasi Balik (\emph {Backpropagation Algorithm})}{5}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Fungsi aktivasi (\emph {Sigmoid})}{6}{subsection.2.2.4}%
+\contentsline {chapter}{\numberline {III}METODOLOGI PENELITIAN}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Waktu dan Tempat Penelitian}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Analisa dan Perancangan}{8}{section.3.2}%
+\contentsline {chapter}{\numberline {IV}ANALISA DAN PEMBAHASAN}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Bahasan 1}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Bahasan 2}{9}{section.4.2}%
+\contentsline {chapter}{\numberline {V}KESIMPULAN DAN SARAN}{10}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{10}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{10}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{11}{chapter*.10}%

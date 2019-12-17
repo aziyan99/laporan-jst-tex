@@ -13,13 +13,17 @@
 \BOOKMARK [0][-]{chapter.2}{KAJIAN LITERATUR}{}% 13
 \BOOKMARK [1][-]{section.2.1}{Tinjauan Pustaka}{chapter.2}% 14
 \BOOKMARK [1][-]{section.2.2}{Landasan Teori}{chapter.2}% 15
-\BOOKMARK [0][-]{chapter.3}{METODOLOGI PENELITIAN}{}% 16
-\BOOKMARK [1][-]{section.3.1}{Waktu dan Tempat Penelitian}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.2}{Analisa dan Perancangan}{chapter.3}% 18
-\BOOKMARK [0][-]{chapter.4}{ANALISA DAN PEMBAHASAN}{}% 19
-\BOOKMARK [1][-]{section.4.1}{Bahasan 1}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.2}{Bahasan 2}{chapter.4}% 21
-\BOOKMARK [0][-]{chapter.5}{KESIMPULAN DAN SARAN}{}% 22
-\BOOKMARK [1][-]{section.5.1}{Kesimpulan}{chapter.5}% 23
-\BOOKMARK [1][-]{section.5.2}{Saran}{chapter.5}% 24
-\BOOKMARK [0][-]{chapter*.7}{DAFTAR PUSTAKA}{}% 25
+\BOOKMARK [2][-]{subsection.2.2.1}{Jaringan Syaraf Tiruan Artificial Neural Network}{section.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.2}{Arsitektur Jaringan Syaraf Tiruan}{section.2.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.3}{Metode Propagasi Balik \(Backpropagation Algorithm\)}{section.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.4}{Fungsi aktivasi \(Sigmoid\)}{section.2.2}% 19
+\BOOKMARK [0][-]{chapter.3}{METODOLOGI PENELITIAN}{}% 20
+\BOOKMARK [1][-]{section.3.1}{Waktu dan Tempat Penelitian}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.2}{Analisa dan Perancangan}{chapter.3}% 22
+\BOOKMARK [0][-]{chapter.4}{ANALISA DAN PEMBAHASAN}{}% 23
+\BOOKMARK [1][-]{section.4.1}{Bahasan 1}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.2}{Bahasan 2}{chapter.4}% 25
+\BOOKMARK [0][-]{chapter.5}{KESIMPULAN DAN SARAN}{}% 26
+\BOOKMARK [1][-]{section.5.1}{Kesimpulan}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.2}{Saran}{chapter.5}% 28
+\BOOKMARK [0][-]{chapter*.10}{DAFTAR PUSTAKA}{}% 29

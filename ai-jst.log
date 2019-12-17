@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  17 DEC 2019 08:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  17 DEC 2019 14:01
 entering extended mode
 **./ai-jst.tex
 (ai-jst.tex
@@ -441,25 +441,47 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count132
 \c@blind@pangramcount=\count133
 \c@blind@pangrammax=\count134
-) (ai-jst.aux
-(bab1.aux) (bab2.aux) (bab3.aux) (bab4.aux) (bab5.aux))
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\uni-global.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count135
+\uc@combtoks=\toks23
+\uc@combtoksb=\toks24
+\uc@temptokena=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)) (ai-jst.aux (bab1.aux) (bab2.aux
+
+LaTeX Warning: Label `JST-2' multiply defined.
+
+) (bab3.aux) (bab4.aux) (bab5.aux))
 \openout1 = `ai-jst.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 62
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 66
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
@@ -467,17 +489,17 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count135
+\scratchcounter=\count136
 \scratchdimen=\dimen141
 \scratchbox=\box31
-\nofMPsegments=\count136
-\nofMParguments=\count137
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count138
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count139
 \MPscratchDim=\dimen142
-\MPnumerator=\count139
-\makeMPintoPDFobject=\count140
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks29
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
 
@@ -520,7 +542,7 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 62.
+Package hyperref Info: Link coloring OFF on input line 66.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -530,11 +552,11 @@ Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count141
+\c@section@level=\count142
 )
-LaTeX Info: Redefining \ref on input line 62.
-LaTeX Info: Redefining \pageref on input line 62.
-LaTeX Info: Redefining \nameref on input line 62.
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
 
 (ai-jst.out) (ai-jst.out)
 \@outlinefile=\write3
@@ -542,79 +564,84 @@ LaTeX Info: Redefining \nameref on input line 62.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 64.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 64.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 64.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14> on input line 64.
+(Font)              <14> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.79996> on input line 64.
+(Font)              <9.79996> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 64.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 64
+(Font)              <7> on input line 68.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 68
 .
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ulasy.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9.79996> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 64.
-<gambar/logoumrah.jpg, id=103, 200.75pt x 200.75pt>
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
+<gambar/logoumrah.jpg, id=119, 200.75pt x 200.75pt>
 File: gambar/logoumrah.jpg Graphic file (type jpg)
 <use gambar/logoumrah.jpg>
-Package pdftex.def Info: gambar/logoumrah.jpg  used on input line 64.
+Package pdftex.def Info: gambar/logoumrah.jpg  used on input line 68.
 (pdftex.def)             Requested size: 203.43724pt x 203.45123pt.
  [1
 
 {C:/Users/Ezzy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./gambar/log
 oumrah.jpg>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 70.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 74.
  [2
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 95.
+(Font)              <12> on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 95.
+(Font)              <8> on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 95.
+(Font)              <6> on input line 99.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 99.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 103.
 
-Overfull \hbox (3.07773pt too wide) in paragraph at lines 95--101
+Overfull \hbox (3.07773pt too wide) in paragraph at lines 99--105
 [][] 
  []
 
 [3] (ai-jst.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 9.
-)
+ [4
+
+])
 \tf@toc=\write4
 \openout4 = `ai-jst.toc'.
 
- [4
-
-] (ai-jst.lot)
+ [5] (ai-jst.lot)
 \tf@lot=\write5
 \openout5 = `ai-jst.lot'.
 
- [5
+ [6
 
 ] (ai-jst.lof)
 \tf@lof=\write6
 \openout6 = `ai-jst.lof'.
 
- [6
+ [7
 
-] [7
+] [8
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 127.
- [8
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 131.
+ [9
 
 
 ]
@@ -632,14 +659,50 @@ BAB I.
  (bab2.tex
 BAB II.
 
-Package blindtext Warning: bahasa not defined, using English instead.
-(blindtext)                 on input line 13.
+Overfull \hbox (8.026pt too wide) in paragraph at lines 27--28
+[]\T1/ptm/m/n/12 Masing-masing \T1/ptm/m/it/12 ne-u-ron \T1/ptm/m/n/12 ak-an me
+n-ja-lank-an fung-si ak-ti-va-si (umum-nya pa-da model-
+ []
 
-) [3
+[3
 
 
 
 ]
+<gambar/net-1.jpg, id=246, 352.31625pt x 149.05687pt>
+File: gambar/net-1.jpg Graphic file (type jpg)
+<use gambar/net-1.jpg>
+Package pdftex.def Info: gambar/net-1.jpg  used on input line 38.
+(pdftex.def)             Requested size: 352.31538pt x 149.0565pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 42.
+<gambar/net-2.jpg, id=249, 344.03531pt x 140.77594pt>
+File: gambar/net-2.jpg Graphic file (type jpg)
+<use gambar/net-2.jpg>
+Package pdftex.def Info: gambar/net-2.jpg  used on input line 52.
+(pdftex.def)             Requested size: 344.03447pt x 140.77557pt.
+ [4 <./gambar/net-1.jpg>] [5 <./gambar/net-2.jpg>]
+("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [6]
+("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\uni-468.def"
+File: uni-468.def 2013/05/13 UCS: Unicode data U+1D400..U+1D4FF
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\uni-34.def"
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+)
+<gambar/sigmoid.png, id=276, 1204.5pt x 803.0pt>
+File: gambar/sigmoid.png Graphic file (type png)
+<use gambar/sigmoid.png>
+Package pdftex.def Info: gambar/sigmoid.png  used on input line 104.
+(pdftex.def)             Requested size: 284.52756pt x 189.68524pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[][][]\T1/ptm/m/n/10 sumber:https://upload.wikimedia.org/wikipedia/commons/thum
+b/8/88/Logistic-
+ []
+
+) [7 <./gambar/sigmoid.png>]
 \openout2 = `bab3.aux'.
 
  (bab3.tex
@@ -648,7 +711,7 @@ BAB III.
 Package blindtext Warning: bahasa not defined, using English instead.
 (blindtext)                 on input line 13.
 
-) [4
+) [8
 
 
 
@@ -661,7 +724,7 @@ BAB IV.
 Package blindtext Warning: bahasa not defined, using English instead.
 (blindtext)                 on input line 13.
 
-) [5
+) [9
 
 
 
@@ -674,40 +737,57 @@ BAB V.
 Package blindtext Warning: bahasa not defined, using English instead.
 (blindtext)                 on input line 13.
 
-) [6
+) [10
 
 
 
 ] (ai-jst.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 173.
- [7
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+ [11
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 173.
- (ai-jst.aux (bab1.aux) (bab2.aux) (bab3.aux) (bab4.aux)
-(bab5.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 173.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 173.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+ (ai-jst.aux (bab1.aux) (bab2.aux) (bab3.aux) (bab4.aux) (bab5.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
 Package rerunfilecheck Info: File `ai-jst.out' has not changed.
-(rerunfilecheck)             Checksum: 11F76B1AD5A7D838D66B13CC026C5248;1402.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 173.
+(rerunfilecheck)             Checksum: 4649A4A8D54EC83C2DF9D198530181F3;1779.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 9103 strings out of 492484
- 137034 string characters out of 3131054
- 259362 words of memory out of 3000000
- 13151 multiletter control sequences out of 15000+200000
- 39500 words of font info for 55 fonts, out of 3000000 for 9000
+ 10735 strings out of 492484
+ 157945 string characters out of 3131054
+ 273317 words of memory out of 3000000
+ 14713 multiletter control sequences out of 15000+200000
+ 49864 words of font info for 68 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,9n,42p,956b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
-mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ai-jst.pdf (15 pages, 150565 bytes).
+ 40i,10n,43p,956b,550s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on ai-jst.pdf (20 pages, 288356 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 362 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
+ 253 words of extra memory for PDF output out of 10000 (max. 10000000)
 
