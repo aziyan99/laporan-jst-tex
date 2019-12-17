@@ -7,10 +7,30 @@
 \chapter{METODOLOGI PENELITIAN}                
 
 \section{Waktu dan Tempat Penelitian}
-  Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content. It's also called placeholder (or filler) text. It's a convenient tool for mock-ups. It helps to outline the visual elements of a document or presentation, eg typography, font, or layout. Lorem ipsum is mostly a part of a Latin text by the classical author and philospher Cicero. Its words and letters have been changed by addition or removal, so to deliberately render its content nonsensical; it's not genuine, correct, or comprehensible Latin anymore. While lorem ipsum's still resembles classical Latin, it actually has no meaning whatsoever. As Cicero's text doesn't contain the letters K, W, or Z, alien to latin, these, and others are often inserted randomly to mimic the typographic appearence of European languages, as are digraphs not to be found in the original.
+  Penelitian ini dilakukan dengan mengikuti jurnal Implementasi jaringan syaraf tiruan untuk menilai kelayakan tugas akhir mahasiswa (studi kasus di amik bukittinggi)yang dioublikasi oleh Jurnal Teknologi Informasi dan Komunikasi Digital Zone, Volume 8, Nomor 1, Tahun 2017.
 
 \section{Analisa dan Perancangan}
- \blindtext[2]
+ Adapun Analisa dan Perancangan didalam penelitian ini adalah:
+\begin{enumerate}
+	\item  Mengumpulkan data penilain terhadap Tugas Akhir Mahasiswa.
+	\item Mendefinisikan \emph{input} dan \emph{target}.
+	\item Membagi data menjadi dua kelompok yaitu, data latih dan data uji.
+	\item Memulai proses pembelajaran prediksi dengan metode \emph{Artificial Neural Network} dengan langkah sebagai berikut:
+	\begin{enumerate}[a.]
+		\item \emph{ANN} dilatih dengan cara menginisialisasi bobot \emph{weight} awal.
+		\item Menentukan fungsi aktivasi , karena ini hanya menampilkan dua keputusan maka fungsi aktivasi yang digunakan pada layar tersembunyi dan layar output adalah fungsi aktivasi sigmoid. Yang dirumuskan sebagai berikut:
+		\begin{enumerate}[i.]
+			\item Setiap unit tersembunyi ($ z_i = z1,...,p $) menjumlahkan bobot sinyal \emph{input} $$ Z_{in_{j}} = v_{j0} + \Sigma^{n}_{i=1} x_{i} v_{ji} $$.
+			\item Dengan menerapkan fungsi aktivasi sigmoid didapatkan keluaran pada layar tersembunyi z $$ Z_{j} = f (Z_{in_{j}}) = \frac{1}{1+e^{-z_{in_{j}}}} $$
+			\item Hitung semua keluaran jaringan di unit $y_{k}$ (k= 1,2,... m) $$ y_{in_{k}} = w_{k0} + \Sigma^{p}_{j=1} Z_{i} W_{kj} $$
+			\item Dengan menerapkan fungsi aktivasi sigmoid biner didapatkan keluaran pada output y $$ y_{k} = f(y_{in_{j}}) = \frac{1}{1+e^{-y_{in_{k}}}} $$
+		\end{enumerate}
+	
+		\item Menggunakan metode backpropagation sebagai pelatihan arah maju atau sebagai pelatihan arah mundur sampai tingkat kesalahan dan jumlah iterasi sebesar 1000 dan target error sebesar 0.001.
+		\item  Mendapatkan Arsitektur Jaringannya.
+		\item  Pengujian data Setelah data sudah disiapkan, langkah selanjutnya adalah mulai melakukan pengujian terhadap data-data tugas akhir mahasiswa.
+	\end{enumerate}
+\end{enumerate}
 % Baris ini digunakan untuk membantu dalam melakukan sitasi
 % Karena diapit dengan comment, maka baris ini akan diabaikan
 % oleh compiler LaTeX.

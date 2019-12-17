@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  17 DEC 2019 14:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  17 DEC 2019 14:52
 entering extended mode
 **./ai-jst.tex
 (ai-jst.tex
@@ -707,15 +707,11 @@ b/8/88/Logistic-
 
  (bab3.tex
 BAB III.
-
-Package blindtext Warning: bahasa not defined, using English instead.
-(blindtext)                 on input line 13.
-
-) [8
+[8
 
 
 
-]
+]) [9]
 \openout2 = `bab4.aux'.
 
  (bab4.tex
@@ -724,7 +720,7 @@ BAB IV.
 Package blindtext Warning: bahasa not defined, using English instead.
 (blindtext)                 on input line 13.
 
-) [9
+) [10
 
 
 
@@ -737,13 +733,13 @@ BAB V.
 Package blindtext Warning: bahasa not defined, using English instead.
 (blindtext)                 on input line 13.
 
-) [10
+) [11
 
 
 
 ] (ai-jst.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
- [11
+ [12
 
 
 ]
@@ -760,13 +756,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 10735 strings out of 492484
- 157945 string characters out of 3131054
- 273317 words of memory out of 3000000
+ 10749 strings out of 492484
+ 158043 string characters out of 3131054
+ 273318 words of memory out of 3000000
  14713 multiletter control sequences out of 15000+200000
  49864 words of font info for 68 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,10n,43p,956b,550s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,10n,43p,956b,602s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -778,16 +774,18 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on ai-jst.pdf (20 pages, 288356 bytes).
+onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
+imes/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ai-jst.pdf (21 pages, 320697 bytes).
 PDF statistics:
- 362 PDF objects out of 1000 (max. 8388607)
- 89 named destinations out of 1000 (max. 500000)
+ 394 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
  253 words of extra memory for PDF output out of 10000 (max. 10000000)
 
