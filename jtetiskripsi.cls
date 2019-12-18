@@ -204,9 +204,9 @@
 %------------------------------------------------------------]
 %Define thesis's inputs
 %------------------------------------------------------------
-\gdef\@university{Universitas Gadjah Mada}
+\gdef\@university{Universitas Maritim Raja Ali Haji}
 \gdef\@faculty{Fakultas Teknik}
-\gdef\@city{Yogyakarta}
+\gdef\@city{Tanjung Pinang}
 \newcommand{\titleind}[1]{\gdef\@titleind{#1}}
 \newcommand{\@titleind}{}
 \newcommand{\fullname}[1]{\gdef\@fullname{#1}}
@@ -249,13 +249,13 @@
       \begin{singlespace}
       \fontsize{14pt}{16pt}\selectfont\MakeUppercase{\normalfont\bfseries\@titleind}\par\nobreak
       \vspace{1.5cm}
-      \MakeUppercase{\normalfont\bfseries Skripsi}\\
+      %\MakeUppercase{\normalfont\bfseries Skripsi}\\
       \vspace{1.0cm}
        \vfill
        \includegraphics[width=0.5\textwidth]{gambar/logoumrah.jpg}
        \vfill
        {\normalfont
-        \bfseries Disusun oleh:\\
+        %\bfseries Disusun oleh:\\
         \MakeUppercase{\normalfont\bfseries\underline \@fullname}\\
         \MakeUppercase{\normalfont\bfseries \@idnum}}\\
        \vspace{1.5cm}

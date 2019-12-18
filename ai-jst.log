@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  17 DEC 2019 14:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  18 DEC 2019 08:05
 entering extended mode
 **./ai-jst.tex
 (ai-jst.tex
@@ -467,21 +467,21 @@ LaTeX Warning: Label `JST-2' multiply defined.
 ) (bab3.aux) (bab4.aux) (bab5.aux))
 \openout1 = `ai-jst.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 66
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 51
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
@@ -542,7 +542,7 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 66.
+Package hyperref Info: Link coloring OFF on input line 51.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -554,9 +554,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count142
 )
-LaTeX Info: Redefining \ref on input line 66.
-LaTeX Info: Redefining \pageref on input line 66.
-LaTeX Info: Redefining \nameref on input line 66.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
 
 (ai-jst.out) (ai-jst.out)
 \@outlinefile=\write3
@@ -569,79 +569,115 @@ Package caption Info: End \AtBeginDocument code.
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
-LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 68.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14> on input line 68.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.79996> on input line 68.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 68.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 68
-.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ulasy.fd"
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9.79996> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
-<gambar/logoumrah.jpg, id=119, 200.75pt x 200.75pt>
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 53.
+<gambar/logoumrah.jpg, id=131, 200.75pt x 200.75pt>
 File: gambar/logoumrah.jpg Graphic file (type jpg)
 <use gambar/logoumrah.jpg>
-Package pdftex.def Info: gambar/logoumrah.jpg  used on input line 68.
+Package pdftex.def Info: gambar/logoumrah.jpg  used on input line 53.
 (pdftex.def)             Requested size: 203.43724pt x 203.45123pt.
- [1
+
+! Argument of \underline  has an extra }.
+<inserted text> 
+                \par 
+l.53 \cover
+           
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \underline  was complete.
+<to be read again> 
+                   \par 
+l.53 \cover
+           
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \cover
+           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \cover
+           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
 
 {C:/Users/Ezzy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./gambar/log
 oumrah.jpg>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 74.
- [2
-
-]
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 99.
+(Font)              <12> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 99.
+(Font)              <8> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 99.
+(Font)              <6> on input line 79.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 79
+.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 103.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 83.
 
-Overfull \hbox (3.07773pt too wide) in paragraph at lines 99--105
+Overfull \hbox (37.7816pt too wide) in paragraph at lines 79--85
 [][] 
  []
 
-[3] (ai-jst.toc
+[2
+
+] [3] (ai-jst.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 9.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 8.
  [4
 
 ])
 \tf@toc=\write4
 \openout4 = `ai-jst.toc'.
 
- [5] (ai-jst.lot)
-\tf@lot=\write5
-\openout5 = `ai-jst.lot'.
+ [5] (ai-jst.lof)
+\tf@lof=\write5
+\openout5 = `ai-jst.lof'.
 
  [6
 
-] (ai-jst.lof)
-\tf@lof=\write6
-\openout6 = `ai-jst.lof'.
+]
+Overfull \hbox (2.79956pt too wide) in paragraph at lines 108--121
+[]\T1/ptm/m/n/12 Masing-masing ma-ha-sis-wa te-lah di-be-rik-an bu-ku pan-du-an
+ pe-nu-lis-an tu-gas akhir
+ []
 
- [7
-
-] [8
+[7
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 131.
- [9
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 127.
+ [8
 
 
 ]
@@ -669,14 +705,16 @@ n-ja-lank-an fung-si ak-ti-va-si (umum-nya pa-da model-
 
 
 ]
-<gambar/net-1.jpg, id=246, 352.31625pt x 149.05687pt>
+<gambar/net-1.jpg, id=258, 352.31625pt x 149.05687pt>
 File: gambar/net-1.jpg Graphic file (type jpg)
 <use gambar/net-1.jpg>
 Package pdftex.def Info: gambar/net-1.jpg  used on input line 38.
 (pdftex.def)             Requested size: 352.31538pt x 149.0565pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 42.
-<gambar/net-2.jpg, id=249, 344.03531pt x 140.77594pt>
+<gambar/net-2.jpg, id=261, 344.03531pt x 140.77594pt>
 File: gambar/net-2.jpg Graphic file (type jpg)
 <use gambar/net-2.jpg>
 Package pdftex.def Info: gambar/net-2.jpg  used on input line 52.
@@ -691,7 +729,7 @@ File: uni-468.def 2013/05/13 UCS: Unicode data U+1D400..U+1D4FF
 ("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\uni-34.def"
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
 )
-<gambar/sigmoid.png, id=276, 1204.5pt x 803.0pt>
+<gambar/sigmoid.png, id=288, 1204.5pt x 803.0pt>
 File: gambar/sigmoid.png Graphic file (type png)
 <use gambar/sigmoid.png>
 Package pdftex.def Info: gambar/sigmoid.png  used on input line 104.
@@ -716,53 +754,61 @@ BAB III.
 
  (bab4.tex
 BAB IV.
+<gambar/flowchart-jst.png, id=324, 252.945pt x 554.07pt>
+File: gambar/flowchart-jst.png Graphic file (type png)
+<use gambar/flowchart-jst.png>
+Package pdftex.def Info: gambar/flowchart-jst.png  used on input line 16.
+(pdftex.def)             Requested size: 168.86244pt x 369.88582pt.
+[10
 
-Package blindtext Warning: bahasa not defined, using English instead.
-(blindtext)                 on input line 13.
-
-) [10
 
 
+ <./gambar/flowchart-jst.png>] [11] [12]
+Overfull \hbox (3.18607pt too wide) in paragraph at lines 156--170
+ [] 
+ []
 
-]
+[13]
+Overfull \hbox (29.4225pt too wide) in paragraph at lines 221--222
+[]\T1/ptm/m/n/12 Parameter yang ka-mi gu-nak-an da-pat di-hi-tung me-la-lui $\O
+ML/cmm/m/it/12 inputxjumlah \OMS/cmsy/m/n/12   [] \OT1/cmr/m/n/12 +
+ []
+
+[14]) [15]
 \openout2 = `bab5.aux'.
 
  (bab5.tex
 BAB V.
-
-Package blindtext Warning: bahasa not defined, using English instead.
-(blindtext)                 on input line 13.
-
-) [11
+) [16
 
 
 
 ] (ai-jst.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
- [12
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+ [17
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
  (ai-jst.aux (bab1.aux) (bab2.aux) (bab3.aux) (bab4.aux) (bab5.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 Package rerunfilecheck Info: File `ai-jst.out' has not changed.
-(rerunfilecheck)             Checksum: 4649A4A8D54EC83C2DF9D198530181F3;1779.
+(rerunfilecheck)             Checksum: C2258D0E7CAD633E8FB9B96316B894C4;2073.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 10749 strings out of 492484
- 158043 string characters out of 3131054
- 273318 words of memory out of 3000000
- 14713 multiletter control sequences out of 15000+200000
- 49864 words of font info for 68 fonts, out of 3000000 for 9000
+ 10752 strings out of 492484
+ 158081 string characters out of 3131054
+ 287170 words of memory out of 3000000
+ 14701 multiletter control sequences out of 15000+200000
+ 43274 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,10n,43p,956b,602s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,10n,43p,878b,602s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -783,9 +829,9 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
 imes/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ai-jst.pdf (21 pages, 320697 bytes).
+Output written on ai-jst.pdf (25 pages, 349299 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
- 103 named destinations out of 1000 (max. 500000)
- 253 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 447 PDF objects out of 1000 (max. 8388607)
+ 122 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 
